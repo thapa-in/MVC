@@ -7,7 +7,9 @@
     </compilers>
   </system.codedom>
 ```
-    * add following code in web.config
+2. Web.config causing "blocked by group policy" error
+      * add following code in web.config
+     
 ```
 <customErrors mode="Off" />
 <trust level="Full" />
@@ -22,7 +24,7 @@
   </assemblies>
 </compilation>
 ```
-3.
   
 
 
+   

@@ -15,7 +15,7 @@
 <trust level="Full" />
 <authentication mode="None" />
 ```
-2. The type 'System.Object' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime, Version=4.0.0.0,
+3. The type 'System.Object' is defined in an assembly that is not referenced. You must add a reference to assembly 'System.Runtime, Version=4.0.0.0,
     * Replace compilation tag to 
 ```xml 
 <compilation debug="true" targetFramework="4.5">

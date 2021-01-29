@@ -24,7 +24,18 @@
   </assemblies>
 </compilation>
 ```
-  
+1. If you got '405 - HTTP verb used to access this page is not allowed' for PUT and DELETE request, after Upload Web Api project online
+then you don't need to uninstall WebDAV, just add these lines to the web.config
+```
+<system.webServer>
+  <modules>
+    <remove name="WebDAVModule" />
+  </modules>
+  <handlers>
+    <remove name="WebDAV" />
+  </handlers>
+</system.webServer>
+```
 
 
    

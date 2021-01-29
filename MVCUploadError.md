@@ -1,4 +1,4 @@
-1. Web.config causing "blocked by group policy" error
+1. Web.config causing **"blocked by group policy"** error
     * Remove all codes between  <system.codedom> tag
 ```
   <system.codedom>
@@ -7,7 +7,7 @@
     </compilers>
   </system.codedom>
 ```
-2. Web.config causing "blocked by group policy" error
+2. Web.config causing **"blocked by group policy"** error
       * add following code in web.config
      
 ```
@@ -24,7 +24,7 @@
   </assemblies>
 </compilation>
 ```
-1. If you got '405 - HTTP verb used to access this page is not allowed' for PUT and DELETE request, after Upload Web Api project online
+1. If you got **'405 - HTTP verb used to access this page is not allowed'** for PUT and DELETE request, after Upload Web Api project online
 then you don't need to uninstall WebDAV, just add these lines to the web.config
 ```
 <system.webServer>

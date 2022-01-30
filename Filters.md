@@ -1,4 +1,5 @@
-**1. Logic :** Client -> (Routing -> Controller -> Action Method) -> return to Client
+**1. Logic :** 
+> Client -> (Routing -> Controller -> Action Method) -> return to Client
 
 
 2. Where we can Apply :

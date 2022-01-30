@@ -1,10 +1,9 @@
 **1. Logic :** 
-> Client **->** (Routing -> Controller -> Action Method) -> return to Client
+> Client -> (Routing -> Controller -> Action Method) -> return to Client
 
 
-2. Where we can Apply :
------------------------
-A. Globally
+**2. Where we can Apply :**
+   **A. Globally**
 
 B. Controller 
 Before execution

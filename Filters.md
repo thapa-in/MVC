@@ -3,15 +3,15 @@
 
 
 **2. Where we can Apply :**
-   **A. Globally**
+> A. Globally
 
-B. Controller 
+> B. Controller 
 Before execution
     |
 (Controller)
   
   
-C. Action 
+> C. Action 
 Before execution
     |
 (Action) - Execution Time

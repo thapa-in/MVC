@@ -22,7 +22,7 @@ After execution
 We can use filter as Attribute 
 
 **4. All 5 types of Filter :**
-it execute this order type
+it executes exact in following order
 1. Authentication
 2. Authorization
 3. Action

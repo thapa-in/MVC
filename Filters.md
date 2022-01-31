@@ -6,18 +6,20 @@
 > A. Globally
 
 > B. Controller 
+```
 Before execution
     |
 (Controller)
-  
+```
   
 > C. Action 
+```
 Before execution
     |
 (Action) - Execution Time
     |
 After execution
-
+````
 **3. How to Use :**
 We can use filter as Attribute 
 

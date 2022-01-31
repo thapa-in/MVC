@@ -18,12 +18,10 @@ Before execution
     |
 After execution
 
-3. How to Use :
----------------
+**3. How to Use :**
 We can use filter as Attribute 
 
-4. 5 types of Filter :
-----------------------
+**4. All 5 types of Filter :**
 it execute this order type
 1. Authentication
 2. Authorization
@@ -33,9 +31,8 @@ it execute this order type
 
 We can make cutom filter all 5 types of.
 
-5. PreDefined Filter :
-----------------------
-OutputCache
-HandleError
+**5. PreDefined Filter :**
+1. OutputCache
+2. HandleError
 
 
